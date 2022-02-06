@@ -198,7 +198,7 @@ namespace StringInterpolationExperiments
 
         /// <summary>
         /// Interpolates the input string with the provided substitutions.
-        /// Square brackets can be escaped by doubling them. E.g [[hello]] would return [[hello]]
+        /// Square brackets can be escaped by doubling them. E.g [[hello]] would return [hello]
         /// </summary>
         /// <example>
         /// Input 'Hello [name]' with substitution Key:name Value:Jane would return 'Hello Jane'
